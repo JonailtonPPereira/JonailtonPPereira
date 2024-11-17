@@ -1,6 +1,6 @@
 ### Olá! Sou o Jonailton👋
 
-Sou bacharelando em administração pela Universidade Federal de Pernambuco - UFPE e, mais recentemente, entusiasta da área de dados. Entendo que pessoas são o ponto chave do meu desenvolvimento, então se você notou algo em que posso evoluir, me manda um feedback!
+Sou bacharel em administração pela Universidade Federal de Pernambuco - UFPE e, mais recentemente, entusiasta da área de dados. Entendo que pessoas são o ponto chave do meu desenvolvimento, então se você notou algo em que posso evoluir, me manda um feedback!
 
 - 🌱 Estudando Python e SQL
 - 😄 Pronomes: Ele/Dele

@@ -25,5 +25,5 @@ Venho do ecossistema de Finanças e FP&A, o que me dá uma visão analítica agu
 
 ### 🤝 Vamos nos conectar?
 
-*   💼 [LinkedIn]([LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/jonailton-pereira/))
-*   📧 [E-mail](mailto:jonailton.pereira@outlook.com)
+*   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonailton-pereira/)
+*   [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:jonailton.pereira@outlook.com)

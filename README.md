@@ -1,13 +1,29 @@
-### Olá! Sou o Jonailton👋
+# Olá, eu sou o Jonailton! 👋
 
-Sou bacharel em administração pela Universidade Federal de Pernambuco - UFPE e, mais recentemente, entusiasta da área de dados. Entendo que pessoas são o ponto chave do meu desenvolvimento, então se você notou algo em que posso evoluir, me manda um feedback!
+dando meus primeiros passos em engenharia de dados para transformar regras de negócio complexas em soluções eficientes. 
 
-- 🌱 Estudando Python e SQL
-- 😄 Pronomes: Ele/Dele
+Venho do ecossistema de Finanças e FP&A, o que me dá uma visão analítica aguçada sobre o impacto real dos dados nos resultados de uma empresa. Hoje, foco em construir pipelines de dados robustos, automações eficientes e visualizações que direcionam tomadas de decisão.
 
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonailtonPPereira&show_icons=true&theme=radical)
+### 🛠️ Meu Stack Técnico
 
-### 👥 Connect With Me
+*   **Linguagens & Manipulação:** 
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    ![SQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+*   **BI & Visualização:** 
+    ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+*   **Metodologias:** Scrum | Kanban
 
-<a href="https://www.linkedin.com/in/jonailton-pereira/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+---
+
+### 🚀 No que estou trabalhando/estudando atualmente?
+*   🏗️ Aprofundando em conceitos de **Engenharia de Dados** (pipelines, modelagem de dados e arquiteturas modernas).
+*   🐍 Desenvolvendo/ajustando scripts de automação e rotinas de ETL com PySpark.
+
+---
+
+### 🤝 Vamos nos conectar?
+
+*   💼 [LinkedIn]([LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/jonailton-pereira/))
+*   📧 [E-mail](mailto:jonailton.pereira@outlook.com)

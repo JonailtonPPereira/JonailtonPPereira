@@ -1,6 +1,6 @@
 # Olá, eu sou o Jonailton! 👋
 
-dando meus primeiros passos em engenharia de dados para transformar regras de negócio complexas em soluções eficientes. 
+Dando meus primeiros passos em engenharia de dados para transformar regras de negócio complexas em soluções eficientes. 
 
 Venho do ecossistema de Finanças e FP&A, o que me dá uma visão analítica aguçada sobre o impacto real dos dados nos resultados de uma empresa. Hoje, foco em construir pipelines de dados robustos, automações eficientes e visualizações que direcionam tomadas de decisão.
 
